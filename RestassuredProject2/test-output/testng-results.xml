@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2980" started-at="2017-12-03T00:22:06Z" finished-at="2017-12-03T00:22:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2980" started-at="2017-12-03T00:22:06Z" finished-at="2017-12-03T00:22:09Z">
+      <class name="getrequest.GetData">
+        <test-method status="PASS" signature="favebookapi()[pri:0, instance:getrequest.GetData@1081592]" name="favebookapi" duration-ms="2647" started-at="2017-12-03T00:22:06Z" finished-at="2017-12-03T00:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favebookapi -->
+        <test-method status="PASS" signature="testResponsecode()[pri:0, instance:getrequest.GetData@1081592]" name="testResponsecode" duration-ms="151" started-at="2017-12-03T00:22:08Z" finished-at="2017-12-03T00:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponsecode -->
+        <test-method status="PASS" signature="testbody()[pri:0, instance:getrequest.GetData@1081592]" name="testbody" duration-ms="130" started-at="2017-12-03T00:22:08Z" finished-at="2017-12-03T00:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbody -->
+      </class> <!-- getrequest.GetData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
